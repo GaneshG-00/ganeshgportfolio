@@ -1,6 +1,6 @@
 google plus footer=<a class="cc-google-plus btn btn-link" href="#"><i class="fa fa-google-plus fa-2x" aria-hidden="true"></i></a>
 google plus header=<a class="btn btn-default btn-round btn-lg btn-icon" href="#" rel="tooltip" title="Follow me on Google+"><i class="fa fa-google-plus"></i></a>
-
+<a class="btn btn-default btn-round btn-lg btn-icon" href="https://github.com/GaneshG-00" rel="tooltip" title="Follow me in GitHub"><img src="logos/github.png" alt="Image"/></a>
 
 
 PORTFOLIO
